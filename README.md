@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=header"/>
 
 
 <!-- <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/gabrielpdlh/gabrielpdlh/assets/144464516/a2684849-5bc6-4eb4-9f1a-07b9cc01abbb" /> -->
@@ -37,9 +37,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; -->
+<!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp; -->
 
 #### Studying in this moment:
 
@@ -71,4 +70,4 @@
 
   
 ;  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=footer"/>
