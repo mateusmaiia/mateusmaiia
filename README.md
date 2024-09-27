@@ -10,7 +10,7 @@
 <p align="center">I ❤ solve great challenges using tech. <br><br> As a programming student deeply passionate about the field, I am committed to enhancing my knowledge to the fullest through practical projects. Motivated by solving complex problems through technology, I aim to integrate theory and practice to develop solid skills in both software development and agile methodologies.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mateusmaiia&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mateusmaiia&theme=radical&mode=weekly&title_color=FFFFFF" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mateusmaiia&show_icons=true&theme=radical&layout=compact&title_color=FFFFFF" />
  </div>
  
