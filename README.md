@@ -40,9 +40,9 @@
 <!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; -->
 <!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp; -->
 
-#### Studying in this moment:
+<!-- #### Studying in this moment:
 
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp; -->
 
 
 #### Databases:
@@ -69,5 +69,4 @@
  
 
   
-;  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=footer"/>
