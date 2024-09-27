@@ -1,5 +1,8 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/gabrielpdlh/gabrielpdlh/assets/144464516/a2684849-5bc6-4eb4-9f1a-07b9cc01abbb" />
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4f9b&height=120&section=header"/>
+
+
+<!-- <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/gabrielpdlh/gabrielpdlh/assets/144464516/a2684849-5bc6-4eb4-9f1a-07b9cc01abbb" /> -->
+<!-- &nbsp;&nbsp;&nbsp; -->
 
 
 
@@ -7,8 +10,8 @@
 <p align="center">I ❤ solve great challenges using tech. <br><br> As a programming student deeply passionate about the field, I am committed to enhancing my knowledge to the fullest through practical projects. Motivated by solving complex problems through technology, I aim to integrate theory and practice to develop solid skills in both software development and agile methodologies.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabrielpdlh&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gabrielpdlh&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mateusmaiia&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mateusmaiia&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -57,10 +60,10 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/gabrielpdlh_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/matteusmaia_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:gabriel.padilha1204@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-padilha-85a702260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:mateusssmaia@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateusssmaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
