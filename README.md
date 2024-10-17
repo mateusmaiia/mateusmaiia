@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=header"/> -->
 
 
 <!-- <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/gabrielpdlh/gabrielpdlh/assets/144464516/a2684849-5bc6-4eb4-9f1a-07b9cc01abbb" /> -->
