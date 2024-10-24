@@ -78,4 +78,4 @@
  
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=footer"/>"
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=footer"/>
