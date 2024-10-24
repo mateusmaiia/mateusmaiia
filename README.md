@@ -17,22 +17,22 @@
 
 #### Main Stack:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Next](https://img.shields.io/badge/next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![ReactNative](https://img.shields.io/badge/React%20Native-333333?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node%20js-333333?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0A3A5A?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-0A3A5A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Next](https://img.shields.io/badge/next.js-0A3A5A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![ReactNative](https://img.shields.io/badge/React%20Native-0A3A5A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-0A3A5A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node%20js-0A3A5A?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-0A3A5A?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0A3A5A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-0A3A5A?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0A3A5A?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-0A3A5A?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -47,9 +47,9 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/matteusmaia_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:mateusssmaia@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mateusssmaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/matteusmaia_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A3A5A?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:mateusssmaia@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0A3A5A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateusssmaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A3A5A?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061a3b&height=120&section=footer"/>
